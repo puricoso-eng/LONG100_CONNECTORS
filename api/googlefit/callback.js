@@ -1,0 +1,1 @@
+// googlefit/callback.js placeholder

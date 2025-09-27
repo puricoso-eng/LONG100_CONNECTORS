@@ -1,0 +1,1 @@
+// coros/callback.js placeholder

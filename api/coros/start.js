@@ -1,0 +1,1 @@
+// coros/start.js placeholder
